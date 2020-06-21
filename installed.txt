@@ -1,13 +1,12 @@
 CheckStyle-IDEA
-Key Promoter X
+Keymap exporter
 Lombook Plugin
-color.scheme.Tomorrow Dark
-com.almightyalpaca.intellij.plugins.discord
 com.arcticicestudio.nord.jetbrains
+com.chrisrm.idea.MaterialThemeUI
 com.codota.csp.intellij
 com.intellij.plugins.vscodekeymap
 com.mallowigi
-com.mallowigi.idea
 com.markskelton.one-dark-theme
-com.thvardhan.gradianto
-org.sonarlint.idea
+google-java-format
+intellij.prettierJS
+ua.in.dej.myEmmet

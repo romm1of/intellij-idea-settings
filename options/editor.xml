@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="300" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Fira Code Medium" />
+  </component>
+</application>
